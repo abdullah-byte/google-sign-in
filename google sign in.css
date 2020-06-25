@@ -1,0 +1,69 @@
+.whole{
+  padding: 20px;
+  border-style: inset;
+  border-width: thin;
+  border-radius: 10px;
+  height: 500px;
+  width: 600px;
+  justify-content: center;
+
+}
+.head{
+  font-weight: lighter;
+  font-style: normal;
+  margin: auto;
+  text-align: left;
+}
+.image{
+  float: right;
+
+}
+h2{
+  font-weight:100;
+}
+.head2{
+  text-align: left;
+  line-height: inherit;
+}
+.container{
+  display: flex;
+  justify-content:flex-end;
+}
+.Username{
+  text-align: left;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+
+}
+p{
+  font-size: 13px;
+}
+.sign{
+  text-align: left;
+  color: blue;
+  float: left;
+  background: transparent;
+
+}
+.next{
+  color: white;
+  background: blue;
+  float: right;
+  margin: auto;
+  padding: auto;
+  border-left: 10px;
+  border-style: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 20px;
+
+}
+.login input[type="password"]{
+  border-radius: 5px;
+  border-spacing: inherit;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline: none;
+
+}
